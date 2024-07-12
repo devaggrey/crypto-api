@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 3000;
 
 const url = require('url');
 const baseUrl = 'https://api.coingecko.com/api/v3/coins/list';
-const apiKey = 'CG-AYvX4AtgKmmkfd9DwuHEZQYE';
+const apiKey = 'CG-cVpYm6tsWQkVpBZoAvrtRuqW';
 
 // Construct the URL with the API key as a query parameter
 const apiUrl = url.format({
